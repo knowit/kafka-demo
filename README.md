@@ -22,3 +22,7 @@ Kommenter gjerne inn ett og et steg i javakoden etterhvert som du gjør stegene
 
 (husk at application-id bestemmer offset til applikasjonen) 
 
+### Lombok
+For å kjøre java-prosjektet i intellij må du ha Lombok-plugin installert: https://projectlombok.org/setup/intellij
+
+Og skru på annotation processing: https://stackoverflow.com/a/41166240
